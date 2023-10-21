@@ -29,11 +29,11 @@ const Head = () => {
 
  
   return (
-    <div className='flex p-1 ml-6 mb-2 fixed bg-white'>
+    <div className='flex p-1  mb-2 fixed bg-white w-[2200px]'>
       <div className='flex '>
         <img 
         onClick={() => toggleMenuHandler()}
-        className='h-8 mt-3 cursor-pointer'
+        className='h-8 mt-3 ml-5 cursor-pointer'
         src='https://cdn.iconscout.com/icon/free/png-256/free-hamburger-menu-462145.png?f=webp' alt='Logo' />
        
        
