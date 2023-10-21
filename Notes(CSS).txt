@@ -1,0 +1,3 @@
+col-span-10 : To occupy 10 amount of portion from total div
+text-center : To get div in center
+w-1/2: To occupy half width of div
