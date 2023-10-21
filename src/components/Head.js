@@ -7,6 +7,7 @@ const Head = () => {
   //After every render it becomes new variable so we assign value
   const [searchQuery , setSearchQuery] = useState("")
 
+  
   const [suggestion , setSuggestions] = useState([])
 
   const theme = useSelector((store) => store.theme.isDarkTheme);
